@@ -1,0 +1,5 @@
+python pip install tweepy
+
+pip install textblob
+
+python -m textblob.download_corpora
