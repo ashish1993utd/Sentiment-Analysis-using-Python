@@ -1,5 +1,4 @@
-Sentiment-Analysis-Twitter
-Sentiment Analysis using Python
+Twitter Sentiment Analysis using Python
 
 Being a tech freak and an Apple fan, I wanted to know which one of the Apple's new iphones launched this year is favourite among people. To find that answer I analysed the tweets using sentiment analysis in Python for iphones (XS and XR) launched this year, and scored each tweets based on positive and negative words. 
 
