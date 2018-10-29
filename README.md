@@ -4,4 +4,4 @@ Being a tech freak and an Apple fan, I wanted to know which one of the Apple's n
 
 For getting the sentiment of each tweet, I used textblob library in python.
 
-Thus comparing the positive, negative and neutral sentiments for both the iphones and predicting the favourite one among iPhone XS and XR. iPhone XS seems to be a winner here with more percentage of positive tweeets, whereas negative tweets for both the phones are almost at par
+Thus comparing the positive, negative and neutral sentiments for both the iphones and predicting the favourite one among iPhone XS and XR. iPhone XS seems to be a winner here with more percentage of positive tweeets, whereas negative tweets for both the phones are almost at par.
